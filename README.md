@@ -5,6 +5,7 @@
 - 🌱 I’m still a beginner of coding
 - ⚡ I'm interested in cloud computing
 - 🤔 I like Minecraft, but I don't play it that much
+- 👯 My preferred language: English, Chinese
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMSCA&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
