@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## About me:
+- 🔭 I’m currently a high school student
+- 🌱 I’m still a beginner of coding
+- ⚡ I'm interested in cloud computing
+- 🤔 I like Minecraft, but I don't play it that much
 <!--
 **RMSCA/RMSCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
